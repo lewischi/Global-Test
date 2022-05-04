@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,text_index_translations=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="事故" max_length="40" name="incident" sizeclass="17822" text_index="true" type="collection">
+        <element label="Custom description" max_length="30" name="custom_description" type="string"/>
+    </element>
+</database>
